@@ -36,15 +36,17 @@
  ## Scienze della terra — *mi piace per diversi motivi:*![Geheimakte2PuritasCordisDeepSilverGIF](https://github.com/user-attachments/assets/b1778599-c98f-4d11-94ba-f0676d8578cb)
 
 
- 1. *spiega il funzionamento di fenomeni che personalmente mi affascinano molto, come per esempio eruzioni vulcaniche e terremoti.
+ 1. *spiega il funzionamento di fenomeni che personalmente mi affascinano molto, come per esempio eruzioni vulcaniche e terremoti*
 
- 2. *Ci spiega le caratteristiche del nostro pianeta e più in generale del sistema solare
+ 2. *Ci spiega le caratteristiche del nostro pianeta e più in generale del sistema solare*
 
 # Progetti scolastici #
 
-  ## FSL — *attività estiva in cui ho sperimentato 3 ambiti scientifici: farmacologia, trasfusionale e anatomia patologica e durato circa 3 settimane*
+  ## FSL 
+  *attività estiva in cui ho sperimentato 3 ambiti scientifici: farmacologia, trasfusionale e anatomia patologica e durato circa 3 settimane*
 
-  ## Progetto le ossa parlano — *progetto fatto nel marzo 2024 in cui si sipegava sia l'evoluzione delle ossa umane, sia il odo in cui, tramite i resti, si pò arrivare a identificare l'identità di una persona*
+  ## Progetto le ossa parlano 
+  *progetto fatto nel marzo 2024 in cui si sipegava sia l'evoluzione delle ossa umane, sia il odo in cui, tramite i resti, si pò arrivare a identificare l'identità di una persona*
 
 
   
