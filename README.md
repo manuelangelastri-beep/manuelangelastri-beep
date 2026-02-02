@@ -18,10 +18,8 @@
    
   ## Come affronto un problema scientifico?🤔
         
-  *1)Cerco di capire se è un problema simile a qualcosa gia affrontato in precedenza*
-  
-  
-*2)Infine lo scompongo in tanti piccoli problemi, risolvendoli uno alla volta*
+1. *Cerco di capire se è un problema simile a qualcosa gia affrontato in precedenza*
+2. *Infine lo scompongo in tanti piccoli problemi, risolvendoli uno alla volta*
 
 
 # Principali interessi scientifici #
