@@ -12,7 +12,7 @@
 
 | Ambito | Strumenti | Livello |
 |:--- | :--- | :--- |
-| Programmazione | Pyton | Intermedio |
+| Programmazione | Pyton, Markdown, Latex | Intermedio |
 
 # Metodo di studio o problem solving #
    
@@ -38,8 +38,16 @@
 
  1. *spiega il funzionamento di fenomeni che personalmente mi affascinano molto, come per esempio eruzioni vulcaniche e terremoti.
 
- 2. *Ci spiega le caratteristiche del nostro pianeta natale
+ 2. *Ci spiega le caratteristiche del nostro pianeta e più in generale del sistema solare
 
+# Progetti scolastici #
+
+  ##FSL — *attività estiva in cui ho sperimentato 3 ambiti scientifici: farmacologia, trasfusionale e anatomia patologica e durato circa 3 settimane*
+
+  ##Progetto le ossa parlano — * progetto fatto nel marzo 2024 
+
+
+  
 
 
         
