@@ -42,9 +42,9 @@
 
 # Progetti scolastici #
 
-  ##FSL — *attività estiva in cui ho sperimentato 3 ambiti scientifici: farmacologia, trasfusionale e anatomia patologica e durato circa 3 settimane*
+  ## FSL — *attività estiva in cui ho sperimentato 3 ambiti scientifici: farmacologia, trasfusionale e anatomia patologica e durato circa 3 settimane*
 
-  ##Progetto le ossa parlano — * progetto fatto nel marzo 2024 
+  ## Progetto le ossa parlano — * progetto fatto nel marzo 2024 
 
 
   
