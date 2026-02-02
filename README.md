@@ -26,8 +26,7 @@
 
   ## Biologia — *mi piace per diversi motivi:* 
   
-  ![BenjamminsScienceRulesGIF](https://github.com/user-attachments/assets/37510ad0-b4af-4312-8885-0bb90a562f71)
-
+  ![ScienceShakeGIF](https://github.com/user-attachments/assets/ef4d7246-ae21-4e6a-bb77-69f2fe0d68c5)
 
   1. *Prende in esame la natura che ci circonda*
 
