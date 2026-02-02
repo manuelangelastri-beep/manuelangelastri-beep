@@ -26,8 +26,8 @@
 
   ## Biologia — *mi piace per diversi motivi:*
 
-  *1)prende in esame la natura che ci circonda*
+  1. *Prende in esame la natura che ci circonda*
 
-  *2)spiega come funzionano i meccanismi di vita di tutti gli organismi della Terra*
+  2. *spiega come funzionano i meccanismi di vita di tutti gli organismi della Terra*
 
         
