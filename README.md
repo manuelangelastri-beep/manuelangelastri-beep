@@ -49,6 +49,11 @@
   *progetto fatto nel marzo 2024 in cui si sipegava sia l'evoluzione delle ossa umane, sia il odo in cui, tramite i resti, si pò arrivare a identificare l'identità di una persona*
 
 
+# Obbiettivi futuri #
+
+## Università
+ *finito il liceo ho intenzione di fare l'università con come indirizzo psicologia e in futuro fare un lavoro in quell'ambito*
+
   
 
 
