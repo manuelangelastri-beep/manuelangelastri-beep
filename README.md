@@ -12,7 +12,7 @@
 
 | Ambito | Strumenti | Livello |
 |:--- | :--- | :--- |
-| Programmazione | Pyton | Base |
+| Programmazione | Pyton | Intermedio |
 
 # Metodo di studio o problem solving #
    
