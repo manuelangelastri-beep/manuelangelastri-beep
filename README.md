@@ -22,12 +22,22 @@
 2. *Infine lo scompongo in tanti piccoli problemi, risolvendoli uno alla volta*
 
 
-# Principali interessi scientifici #
+# Principali interessi scolastici #
 
-  ## Biologia — *mi piace per diversi motivi:*
+  ## Biologia — *mi piace per diversi motivi:* ![BenjamminsScienceRulesGIF](https://github.com/user-attachments/assets/37510ad0-b4af-4312-8885-0bb90a562f71)
+
 
   1. *Prende in esame la natura che ci circonda*
 
   2. *Spiega come funzionano i meccanismi di vita di tutti gli organismi della Terra*
+
+ ## Scienze della terra — *mi piace per diversi motivi:*![Geheimakte2PuritasCordisDeepSilverGIF](https://github.com/user-attachments/assets/b1778599-c98f-4d11-94ba-f0676d8578cb)
+
+
+ 1. *spiega il funzionamento di fenomeni che personalmente mi affascinano molto, come per esempio eruzioni vulcaniche e terremoti.
+
+ 2. *Ci spiega le caratteristiche del nostro pianeta natale
+
+
 
         
