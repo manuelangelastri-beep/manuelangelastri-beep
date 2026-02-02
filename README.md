@@ -24,7 +24,9 @@
 
 # Principali interessi scolastici #
 
-  ## Biologia — *mi piace per diversi motivi:* ![BenjamminsScienceRulesGIF](https://github.com/user-attachments/assets/37510ad0-b4af-4312-8885-0bb90a562f71)
+  ## Biologia — *mi piace per diversi motivi:* 
+  
+  ![BenjamminsScienceRulesGIF](https://github.com/user-attachments/assets/37510ad0-b4af-4312-8885-0bb90a562f71)
 
 
   1. *Prende in esame la natura che ci circonda*
